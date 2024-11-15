@@ -53,6 +53,7 @@ Model architecture
 Validation accuracy over learning rates and layers
 Graph representation of model layers
 
+## VALIDATION ACCURACY VS LEARNING RATE
 ![IMAGE 2](https://github.com/user-attachments/assets/408df562-df48-48c0-8a2b-1701a0161fe3)
 ## VALIDATION ACCURACY VS NUMBER OF LAYERS
 ![IMAGE 3](https://github.com/user-attachments/assets/b049b7b3-945c-4290-a4b2-243a9781dd3c)
