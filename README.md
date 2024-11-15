@@ -55,6 +55,7 @@ Graph representation of model layers
 
 ![IMAGE 2](https://github.com/user-attachments/assets/408df562-df48-48c0-8a2b-1701a0161fe3)
 ![IMAGE 3](https://github.com/user-attachments/assets/b049b7b3-945c-4290-a4b2-243a9781dd3c)
+## TRAINING LOSS VS VALIDATION LOSS
 ![IMAGE 5](https://github.com/user-attachments/assets/cc9790f1-0436-40ab-9e50-1a92e730493a)
 ## MEAN SQUARRED ERROR (MSE) VS EPOCHS
 ![IMAGE 6](https://github.com/user-attachments/assets/400b9910-8217-4c51-a1df-72d9d3ff66a1)
