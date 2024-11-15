@@ -57,4 +57,5 @@ Graph representation of model layers
 ![IMAGE 3](https://github.com/user-attachments/assets/b049b7b3-945c-4290-a4b2-243a9781dd3c)
 ![IMAGE 5](https://github.com/user-attachments/assets/cc9790f1-0436-40ab-9e50-1a92e730493a)
 ![IMAGE 6](https://github.com/user-attachments/assets/400b9910-8217-4c51-a1df-72d9d3ff66a1)
+## MODEL LOSS VS MODEL ACCURACY
 ![last image](https://github.com/user-attachments/assets/81c19aaf-fb17-4b09-9069-3d80c6e26a97)
