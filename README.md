@@ -1,5 +1,6 @@
 # Drug Target Interaction Using Artificial Neural Network (Feed Forwarded Neural Network (FNN) )
 
+## Table of Contents
 - Installation
 - Data
 - Model Architecture
